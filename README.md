@@ -1,5 +1,5 @@
-# HOW TO run
+# HOW TO RUN
 
--clone or download repo.
--run index.HTML
--have fun.
+1. Clone or download repo.
+2. Run index.HTML
+3. Have fun.
